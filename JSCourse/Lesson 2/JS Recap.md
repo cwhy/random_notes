@@ -42,9 +42,13 @@
 - functions
   - `() => {}`
   ```js
-  let y = (x) => {x + 3}
-  let y = x => {x + 3}
+  let y = (x) => {return x + 3}
+  let y = (x) => x + 3
+  let y = x => x + 3
   let y = function (x) {
+	  return x + 3
+  }
+  function y(x) {
 	  return x + 3
   }
   y(3) // 6
