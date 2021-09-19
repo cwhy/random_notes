@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JSCourse/JS Intro.md",
+            "file": "JSCourse/Lesson 2/JS Recap.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "0e36b306a48db8f9"
+      },
+      {
+        "id": "f0b72ebf768fc07e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JSCourse/Lesson 2/JS Recap.md",
+            "mode": "preview"
+          }
+        },
+        "group": "0e36b306a48db8f9"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSCourse/JS Intro.md",
+                "file": "JSCourse/Lesson 2/JS Recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +101,15 @@
   },
   "active": "4d0ac1f2a55f789c",
   "lastOpenFiles": [
-    "JSCourse/JS Intro.md",
-    "JSCourse/HTMLRecapInfo.md",
-    "JSCourse/HTMLRecapTask.md",
-    "JSCourse/HTMLStructure.png",
+    "JSCourse/Lesson 2/JS Recap.md",
+    "JSCourse/Lesson 2/Recap Task 1.md",
+    "JSCourse/Lesson 2/Untitled.md",
+    "JSCourse/Lesson 2/Recap Task 1 1.md",
     "Untitled.md",
-    "JSCourse/HTMLrecap.md",
-    "JSCourse/HTMLInfo.md",
-    "JSCourse/Untitled.md"
+    "JSCourse/Lesson 2/Lesson 2.md",
+    "Lesson 2.md",
+    "JSCourse/Lesson 1/JS Intro.md",
+    "JSCourse/Lesson 1/HTMLStructure.png",
+    "JSCourse/Lesson 1/HTMLRecapTask.md"
   ]
 }
