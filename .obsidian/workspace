@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JSCourse/HTMLRecapTask.md",
+            "file": "JSCourse/JS Intro.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSCourse/HTMLRecapTask.md",
+                "file": "JSCourse/JS Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "4d0ac1f2a55f789c",
   "lastOpenFiles": [
-    "JSCourse/HTMLRecapTask.md",
-    "JSCourse/HTMLStructure.png",
     "JSCourse/JS Intro.md",
     "JSCourse/HTMLRecapInfo.md",
+    "JSCourse/HTMLRecapTask.md",
+    "JSCourse/HTMLStructure.png",
     "Untitled.md",
     "JSCourse/HTMLrecap.md",
     "JSCourse/HTMLInfo.md",
