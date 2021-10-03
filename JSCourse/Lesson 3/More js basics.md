@@ -4,9 +4,9 @@
 // This is a comment
 // let x = 3
 ```
-- Variable
+- Variable 变量
 ```js
-let x = 3  // Declaration
+let x = 3  // Declaration 声明
 console.log(x)
 ```
 - Scope
@@ -19,27 +19,27 @@ let x = 3 // Outer scope
 console.log(x) // Outer scope
 console.log(y) // Outer scope
 ```
-- Function Declaration/Evaluation
+- Function Declaration/Evaluation 函数 声明/执行
 ```js
 let plusOne = x => x + 1 // Declaration
 plusOne(3) // Evaluation
 ```
-- Types
-	- numbers
+- Types 类型
+	- numbers 数字
 		```js
 		let x = 1
 		```
-	- boolean
+	- boolean 布尔值
 		```js
 		let x = true
 		let y = (3 === 4) // y = false
 		```
-	- string
+	- string 字符串
 		```js
-		let x = "12"
-		console.log(x.length) // 2
+		let x = "12x"
+		console.log(x.length) // 3
 		```
-	- array
+	- array 数组
 		```js
 		let x = [2, 3, 4]
 		console.log(x.length) // 3

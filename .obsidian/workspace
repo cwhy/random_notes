@@ -6,6 +6,7 @@
       {
         "id": "4d0ac1f2a55f789c",
         "type": "leaf",
+        "dimension": 41.3696715583508,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,6 +19,7 @@
       {
         "id": "f0b72ebf768fc07e",
         "type": "leaf",
+        "dimension": 58.63032844164919,
         "state": {
           "type": "markdown",
           "state": {
@@ -99,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4d0ac1f2a55f789c",
+  "active": "f0b72ebf768fc07e",
   "lastOpenFiles": [
+    "JSCourse/Lesson 3/More js basics.md",
+    "JSCourse/Lesson 2/JS Recap.md",
+    "JSCourse/Lesson 2/Map filter boolean.md",
     "Lesson 3/More about js.md",
     "Lesson 3/JS Nomenclature.md",
     "Lesson 3/Recap Task 1.md",
     "JSCourse/Lesson 2/Recap Task 2.md",
     "JSCourse/Lesson 2/Recap Task 1.md",
     "Untitled 1.md",
-    "Lesson 3.md",
-    "Untitled.md",
-    "JSCourse/Lesson 2/Map filter boolean.md",
-    "JSCourse/Lesson 2/JS Recap.md"
+    "Lesson 3.md"
   ]
 }

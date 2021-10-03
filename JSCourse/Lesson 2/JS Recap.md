@@ -68,6 +68,8 @@
 	listOfFruits[0] // "apple"
 	listOfFruits[1] // "banana"
 	listOfFruits[2] // "mayonnaise"
+	listOfFruits.length // 3
+	let someNumbers = [1, 1, 2, 3, 5, 8]
   ```
 - type
   - numbers
@@ -91,11 +93,12 @@
 		let x = "1"
 		let y = "2"
 		x + y // "12"
+		y.length // 1
 		```
 	- number/string conversion
 		- implicit conversion (not recommended)
 		```js
-		"12" + 12 // 1212
+		"12" + 12 // "1212"
 		12 + "12" // 24
 		```
 		- explicit conversion
@@ -112,6 +115,13 @@
 			parseInt(x) // 12
 			parseFloat(x) // 12.75
 			```
+			- `toString`
+			```js
+			let x = 12.75
+			x // 12.75
+			x // "12.75"
+			```
+			
 - undefined/NaN
   ```js
   x10 // undefined

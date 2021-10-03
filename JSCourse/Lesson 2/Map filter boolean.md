@@ -17,3 +17,10 @@ let numArray = [3, 4, 5, 6]
 let z = numArray.filter(isEven)
 z[1]
 ```
+
+## Reduce
+```js
+let numArray = [3, 4, 5]
+let sum = (a, b) => a + b
+numArray.reduce(sum, 0) // 12
+```
