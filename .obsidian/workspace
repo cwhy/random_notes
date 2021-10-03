@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JSCourse/Lesson 2/JS Recap.md",
+            "file": "JSCourse/Lesson 3/More js basics.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JSCourse/Lesson 2/JS Recap.md",
+            "file": "JSCourse/Lesson 3/More js basics.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSCourse/Lesson 2/JS Recap.md",
+                "file": "JSCourse/Lesson 3/More js basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f0b72ebf768fc07e",
+  "active": "4d0ac1f2a55f789c",
   "lastOpenFiles": [
-    "JSCourse/Lesson 2/JS Recap.md",
-    "JSCourse/Lesson 2/Map filter boolean.md",
+    "Lesson 3/More about js.md",
+    "Lesson 3/JS Nomenclature.md",
+    "Lesson 3/Recap Task 1.md",
     "JSCourse/Lesson 2/Recap Task 2.md",
     "JSCourse/Lesson 2/Recap Task 1.md",
-    "JSCourse/Lesson 2/Untitled.md",
-    "JSCourse/Lesson 2/Recap Task 1 1.md",
+    "Untitled 1.md",
+    "Lesson 3.md",
     "Untitled.md",
-    "JSCourse/Lesson 2/Lesson 2.md",
-    "Lesson 2.md",
-    "JSCourse/Lesson 1/JS Intro.md"
+    "JSCourse/Lesson 2/Map filter boolean.md",
+    "JSCourse/Lesson 2/JS Recap.md"
   ]
 }
