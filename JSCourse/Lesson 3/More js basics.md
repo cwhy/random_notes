@@ -36,7 +36,8 @@ plusOne(3) // Evaluation
 		```
 	- string
 		```js
-		let x = "1"
+		let x = "12"
+		console.log(x.length) // 2
 		```
 	- array
 		```js
