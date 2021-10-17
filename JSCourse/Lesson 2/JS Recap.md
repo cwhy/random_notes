@@ -119,7 +119,7 @@
 			```js
 			let x = 12.75
 			x // 12.75
-			x // "12.75"
+			x.toString() // "12.75"
 			```
 			
 - undefined/NaN

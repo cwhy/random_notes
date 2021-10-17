@@ -4,7 +4,7 @@ Won't change the array:
 ```js
 let y = x => x + 1
 let numArray = [3, 4, 5]
-numArray.map(y)
+numArray.map(y) // [4, 5, 6]
 ```
 
 - `filter`
@@ -20,6 +20,8 @@ z[1]
 let numArray = [3, 4, 5]
 let sum = (a, b) => a + b
 numArray.reduce(sum, 0) // 12
+numArray.reduce((a, b) => a + b, 0) // 12
+numArray.reduce(function(a, b){return a + b}, 0) // 12
 ```
 
 - `join`

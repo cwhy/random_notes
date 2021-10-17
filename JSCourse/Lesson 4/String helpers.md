@@ -1,4 +1,15 @@
 ## Helper String functions
+- `[]`
+```js
+let z = "123"
+z[2] // 3
+```
+
+- `length`
+```js
+let z = "123"
+z.length // 3
+```
 - `===`
 ```js
 let text1 = "   hi    "

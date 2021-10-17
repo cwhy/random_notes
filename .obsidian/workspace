@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JSCourse/Lesson 4/String helpers.md",
+            "file": "JSCourse/Lesson 4/Array helpers.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSCourse/Lesson 4/String helpers.md",
+                "file": "JSCourse/Lesson 4/Array helpers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,20 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "4d0ac1f2a55f789c",
   "lastOpenFiles": [
+    "JSCourse/Lesson 4/Array helpers.md",
     "JSCourse/Lesson 4/String helpers.md",
     "JSCourse/Lesson 4/Codewars log.md",
-    "JSCourse/Lesson 4/Array helpers.md",
+    "JSCourse/Lesson 2/JS Recap.md",
+    "JSCourse/Lesson 1/JS Intro.md",
+    "JSCourse/Lesson 2/Map filter boolean.md",
     "JSCourse/Lesson 3/More js basics.md",
     "Untitled.md",
     "JSCourse/Lesson 3/Recap Task 1.md",
-    "JSCourse/Lesson 4/Array helpers Recap.md",
-    "JSCourse/Lesson 2/JS Recap.md",
-    "JSCourse/Lesson 2/Map filter boolean.md",
-    "JSCourse/Lesson 4/Array helpers(ctd).md"
+    "JSCourse/Lesson 4/Array helpers Recap.md"
   ]
 }
