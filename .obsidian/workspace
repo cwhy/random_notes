@@ -6,28 +6,13 @@
       {
         "id": "4d0ac1f2a55f789c",
         "type": "leaf",
-        "dimension": 41.3696715583508,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JSCourse/Lesson 3/More js basics.md",
-            "mode": "source"
-          }
-        },
-        "group": "0e36b306a48db8f9"
-      },
-      {
-        "id": "f0b72ebf768fc07e",
-        "type": "leaf",
-        "dimension": 58.63032844164919,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "JSCourse/Lesson 3/More js basics.md",
+            "file": "JSCourse/Lesson 4/String helpers.md",
             "mode": "preview"
           }
-        },
-        "group": "0e36b306a48db8f9"
+        }
       }
     ],
     "direction": "vertical"
@@ -83,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSCourse/Lesson 3/More js basics.md",
+                "file": "JSCourse/Lesson 4/String helpers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f0b72ebf768fc07e",
+  "active": "4d0ac1f2a55f789c",
   "lastOpenFiles": [
+    "JSCourse/Lesson 4/String helpers.md",
+    "JSCourse/Lesson 4/Array helpers.md",
     "JSCourse/Lesson 3/More js basics.md",
+    "JSCourse/Lesson 3/Recap Task 1.md",
+    "JSCourse/Lesson 4/Array helpers Recap.md",
     "JSCourse/Lesson 2/JS Recap.md",
     "JSCourse/Lesson 2/Map filter boolean.md",
-    "Lesson 3/More about js.md",
-    "Lesson 3/JS Nomenclature.md",
-    "Lesson 3/Recap Task 1.md",
-    "JSCourse/Lesson 2/Recap Task 2.md",
-    "JSCourse/Lesson 2/Recap Task 1.md",
-    "Untitled 1.md",
-    "Lesson 3.md"
+    "JSCourse/Lesson 4/Array helpers(ctd).md",
+    "JSCourse/Lesson 1/JS Intro.md",
+    "JSCourse/Lesson 1/HTMLStructure.png"
   ]
 }
