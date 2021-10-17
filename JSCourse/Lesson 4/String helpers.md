@@ -30,16 +30,23 @@ text1.toUpperCase() // "HELLO WORLD"
 
 - `replace`
 ```js
-let str = "This is an sentence"
-str.replace("a", "aa")    // "This is a sentence"
+let str = "This is an sentence and"
+str.replace("an", "a")    // "This is a sentence and"
+```
+
+- `replaceAll`
+```js
+let str = "This is an sentence and"
+str.replaceAll("an", "a")    // "This is a sentence ad"
 ```
 
 - `trim`
 ```js
 let str = "      This is an sentence    "
+str.trim() // "This is an sentence"
 ```
 
-- `substring`
+- `slice`
 ```js
 let str = "Apple, Banana, Kiwi"
 str.slice(7, 13)    // Banana
