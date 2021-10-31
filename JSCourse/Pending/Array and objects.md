@@ -1,0 +1,60 @@
+## Array
+- make an array
+```js
+let listOfFruits = ["apple", "banana", "mayonnaise"]
+```
+
+- get items from array
+```js
+listOfFruits[0] // "apple"
+listOfFruits[1] // "banana"
+listOfFruits[2] // "mayonnaise"
+```
+
+[[Array helpers]]
+
+## Objects
+- make an object
+```js
+let exampleObject = {
+  "property": "value",
+  "anotherProperty": 2,
+}
+```
+
+- retrieve items from object
+
+```js
+exampleObject.property // "value"
+exampleObject["property"] // "value"
+```
+
+- example usage
+```js
+let shirt = {
+  color: "blue",
+  price: 19.90,
+  description: "A blue t-shirt, you'll never need another one in your life!",
+}
+
+shirt.price // 19.90
+```
+
+- nested object
+```js
+let setOfClothes = {
+  shirt: {
+    color: "blue",
+    price: 19.90,
+    description: "A blue t-shirt, you'll never need another one in your life!",
+  },
+  pants: {
+    color: "red",
+    price: 19.70,
+    description: "A red pant!",
+  },
+}
+
+setOfClothes.shirt.color // "blue"
+setOfClothes.pants.color // "red"
+```

@@ -99,7 +99,7 @@
 		- implicit conversion (not recommended)
 		```js
 		"12" + 12 // "1212"
-		12 + "12" // 24
+		+ "1212" // "1212"
 		```
 		- explicit conversion
 			- `parseInt`

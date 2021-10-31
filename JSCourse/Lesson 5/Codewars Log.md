@@ -1,0 +1,46 @@
+### Remove exclamation marks
+- https://www.codewars.com/kata/57a0885cbb9944e24c00008e/train/javascript
+- Links
+	- [[Map filter boolean reduce]]
+	- [[Array helpers]]
+	- [[String helpers]]
+### Sentence Smash
+- https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/javascript
+- Links
+	- [[String helpers]]
+	- [[Map filter boolean reduce]]
+### Fake Binary
+- https://www.codewars.com/kata/57eae65a4321032ce000002d/train/javascript
+- Links
+	- [[Map filter boolean reduce]]
+	- [[Array helpers]]
+	- [[String helpers]]
+### RPS
+- https://www.codewars.com/kata/5672a98bdbdd995fad00000f/train/javascript
+- Links
+	- [[Boolean]]
+	
+### Can we divide it
+- https://www.codewars.com/kata/5a2b703dc5e2845c0900005a/train/javascript
+- Links
+	- [[Boolean]]
+
+### DNA to RNA Conversion
+- https://www.codewars.com/kata/5556282156230d0e5e000089/train/javascript
+- Links
+	- [[Array helpers]]
+	- [[String helpers]]
+	- [[Map filter boolean reduce]]
+	
+### Sum Mixed Array
+- https://www.codewars.com/kata/57eaeb9578748ff92a000009/train/javascript
+- Links
+	- [[Easy String Number Conversion]]
+	- [[Map filter boolean reduce]]
+
+### If you can't sleep, just count sheep!!
+- https://www.codewars.com/kata/5b077ebdaf15be5c7f000077/train/javascript
+
+```js
+let range = n => [...Array(n).keys()]
+```
