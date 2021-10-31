@@ -7,14 +7,7 @@
 ### Sentence Smash
 - https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/javascript
 - Links
-	- [[String helpers]]
-	- [[Map filter boolean reduce]]
-### Fake Binary
-- https://www.codewars.com/kata/57eae65a4321032ce000002d/train/javascript
-- Links
-	- [[Map filter boolean reduce]]
 	- [[Array helpers]]
-	- [[String helpers]]
 ### RPS
 - https://www.codewars.com/kata/5672a98bdbdd995fad00000f/train/javascript
 - Links
@@ -44,3 +37,10 @@
 ```js
 let range = n => [...Array(n).keys()]
 ```
+
+### Fake Binary
+- https://www.codewars.com/kata/57eae65a4321032ce000002d/train/javascript
+- Links
+	- [[Map filter boolean reduce]]
+	- [[Array helpers]]
+	- [[String helpers]]
