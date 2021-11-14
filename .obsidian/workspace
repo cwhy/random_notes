@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JSCourse/Lesson 5/Codewars Log.md",
+            "file": "JSCourse/Lesson 6/range, map with index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSCourse/Lesson 5/Codewars Log.md",
+                "file": "JSCourse/Lesson 6/range, map with index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,13 +87,13 @@
   },
   "active": "4d0ac1f2a55f789c",
   "lastOpenFiles": [
+    "JSCourse/Lesson 6/range, map with index.md",
+    "JSCourse/Lesson 2/Map filter boolean reduce.md",
     "JSCourse/Lesson 5/Codewars Log.md",
     "JSCourse/Lesson 5/Easy String Number Conversion.md",
     "JSCourse/Lesson 5/ifelse.md",
-    "JSCourse/Lesson 6/range.md",
     "JSCourse/Lesson 6/CodewarsLog.md",
     "JSCourse/Lesson 5/Boolean.md",
-    "JSCourse/Lesson 2/Map filter boolean reduce.md",
     "JSCourse/Lesson 6/MapFilterReduce2.md",
     "JSCourse/Lesson 5/Untitled.md",
     "JSCourse/Lesson 4/Array helpers.md"
