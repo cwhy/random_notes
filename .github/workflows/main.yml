@@ -1,0 +1,26 @@
+name: build-website
+on:
+  push:
+    branches: master
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+      - name: Init
+        run: mkdir docs
+      - name: Build
+        run: sudo docker run -v $PWD:/data sridca/emanote emanote --layers "/data" gen /data/docs
+      - name: Stage Files
+        run: git add -f docs
+      - name: Commit files
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git commit -m "Build for deploy"
+      - name: Publish
+        run: |
+          git subtree split --prefix docs -b gh-pages
+          git push -f origin gh-pages:gh-pages
