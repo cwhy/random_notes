@@ -1,3 +1,3 @@
-## CWhy Notes
+## Notes
 
-A collection of random notes I have written for my future self.
+A collection of notes, somewhat consolidated in a readable state.
