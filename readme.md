@@ -1,3 +1,3 @@
-## Test
+## CWhy Notes
 
-test
+A collection of random notes I have written for my future self.
