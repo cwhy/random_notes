@@ -7,10 +7,9 @@
         "id": "4d0ac1f2a55f789c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "JSCourse/HTMLRecapTask.md",
-            "mode": "source"
+            "file": "JSCourse/HTMLStructure.png"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSCourse/HTMLRecapTask.md",
+                "file": "JSCourse/HTMLStructure.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +87,8 @@
   },
   "active": "4d0ac1f2a55f789c",
   "lastOpenFiles": [
-    "JSCourse/HTMLRecapTask.md",
     "JSCourse/HTMLStructure.png",
+    "JSCourse/HTMLRecapTask.md",
     "JSCourse/JS Intro.md",
     "JSCourse/HTMLRecapInfo.md",
     "Untitled.md",
