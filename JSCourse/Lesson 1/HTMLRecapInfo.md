@@ -13,7 +13,7 @@ For the code below
 ```
 
 The tree structure is:
-![[HTMLStructure.png]]
+![HTMLStructure](HTMLStructure.png)
 
 ## Attributes: IDs and class
 
