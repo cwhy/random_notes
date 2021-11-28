@@ -52,6 +52,14 @@ let arr1 = [2, 3, 4]
 arr1[2] // 4
 ```
 
+### []: Array destruction 数组分解
+```js
+let [x, y] = [1, 2]
+
+x
+
+y
+```
 ### {}: code block 代码块
 ```js
 let x = 4

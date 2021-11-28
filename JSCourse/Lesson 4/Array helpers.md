@@ -36,6 +36,7 @@ Will change the array:
 let strArray = [3, 2, 4]
 strArray.sort()
 strArray // [2, 3, 4] 
+strArray.sort((a, b) => a - b)
 ```
 
 - `reverse`

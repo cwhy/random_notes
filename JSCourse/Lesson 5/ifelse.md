@@ -7,8 +7,13 @@ let is23 = (x) => {
 		return 43
 	}
 }
+
 is23(32) // 43
 is23(23) // 42
 
 [22, 23, 24, 25].map(is23) // [43, 42, 43, 43]
+
+// condition ? true results : false results
+
+let is23 = x => x===23 ? 42:43
 ```

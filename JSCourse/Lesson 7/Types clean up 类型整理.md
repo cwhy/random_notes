@@ -15,6 +15,7 @@ When you see a `x`
 - boolean 布尔值
    ```js
    let x = true
+   let x = 4 === 4
    ```
 - functions 函数
 	```js
@@ -25,26 +26,35 @@ When you see a `x`
 - [[Easy String Number Conversion]]
 - string to array
 ```js
+"hello world".split(" ") // ["hello", "world"]
 ```
 [[String helpers]]
 
 - array to string
 ```js
+["asd", "adsfa"].join("") // "asdadsfa"
 ```
 [[Array helpers]]
 
 - number to array
 ```js
+let range = n => [...Array(n).keys()]
+
+range(9)
+
 ```
 [[range, map with index]]
 
 - number/string/array to boolean
 ```js
+3 === 3 //true
+"3" === "3" //true
 ```
 [[Boolean]]
 
 - boolean to boolean
 ```js
+true && true // true
 ```
 [[Boolean]]
 
@@ -56,7 +66,8 @@ Input and output type of functions can be one of the types.
 - `alert` inputs string, outputs nothing,
 but there will be side effects.
 - `console.log` inputs string, outputs nothing
-- `x => x + 1`
-- `x => [x, 1, 2]`
-- `[2, 3, 4].map` inputs
-- `[2, 3, 4].filter` inputs
+- `x => x + 1` inputs number, output number
+- `x => [x, 1, 2]` inputs Anything, output Array
+- `[2, 3, 4].map` inputs function(input number, output anything), output Array
+- `[2, 3, 4].filter` same as map
+- `["3", "4"].join` inputs string, output string
