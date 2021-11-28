@@ -24,7 +24,7 @@ console.log(y) // Outer scope
 let plusOne = x => x + 1 // Declaration
 plusOne(3) // Evaluation
 ```
-- Types 类型
+- Types 类型 [[Types clean up 类型整理]]
 	- numbers 数字
 		```js
 		let x = 1

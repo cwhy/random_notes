@@ -7,11 +7,8 @@
         "id": "4d0ac1f2a55f789c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "JSCourse/Lesson 7/Syntax clearup 语法整理.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSCourse/Lesson 7/Syntax clearup 语法整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,19 +79,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "4d0ac1f2a55f789c",
   "lastOpenFiles": [
-    "JSCourse/Lesson 7/Syntax clearup 语法整理.md",
-    "JSCourse/Lesson 7/Types clean up 类型整理.md",
-    "JSCourse/Pending/Array and objects.md",
-    "JSCourse/Lesson 6/range, map with index.md",
-    "JSCourse/Lesson 6/CodewarsLog.md",
-    "JSCourse/Lesson 2/Map filter boolean reduce.md",
-    "JSCourse/Lesson 2/JS Recap.md",
-    "JSCourse/Lesson 4/String helpers.md",
-    "JSCourse/Lesson 5/ifelse.md",
-    "JSCourse/Lesson 5/Boolean.md"
+    "JSCourse/HTMLStructure.png",
+    "JSCourse/HTMLRecapTask.md",
+    "JSCourse/JS Intro.md",
+    "JSCourse/HTMLRecapInfo.md",
+    "Untitled.md",
+    "JSCourse/HTMLrecap.md",
+    "JSCourse/HTMLInfo.md",
+    "JSCourse/Untitled.md"
   ]
 }
