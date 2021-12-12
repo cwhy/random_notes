@@ -7,11 +7,8 @@
         "id": "4d0ac1f2a55f789c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "JSCourse/Lesson 4/Array helpers.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSCourse/Lesson 4/Array helpers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +83,15 @@
   },
   "active": "4d0ac1f2a55f789c",
   "lastOpenFiles": [
+    "JSCourse/Lesson 8/Useful.md",
+    "JSCourse/Lesson 8/Codewars Log.md",
+    "JSCourse/Lesson 7/Syntax clearup 语法整理.md",
+    "JSCourse/Lesson 3/More js basics.md",
+    "JSCourse/Lesson 5/Codewars Log.md",
+    "JSCourse/Lesson 4/Codewars log.md",
+    "JSCourse/Lesson 4/String helpers.md",
     "JSCourse/Lesson 4/Array helpers.md",
     "JSCourse/Lesson 6/range, map with index.md",
-    "JSCourse/Lesson 7/Syntax clearup 语法整理.md",
-    "JSCourse/Lesson 7/Types clean up 类型整理.md",
-    "JSCourse/Lesson 6/CodewarsLog.md",
-    "JSCourse/Lesson 5/Codewars Log.md",
-    "JSCourse/Lesson 5/ifelse.md",
-    "JSCourse/Pending/Array and objects.md",
-    "JSCourse/Lesson 5/Easy String Number Conversion.md",
-    "JSCourse/Lesson 4/Codewars log.md"
+    "JSCourse/Lesson 7/Types clean up 类型整理.md"
   ]
 }
