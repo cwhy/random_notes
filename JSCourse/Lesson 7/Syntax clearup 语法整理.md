@@ -73,3 +73,20 @@ let plus = function(a, b) {
 	return a + b
 }
 ```
+
+### {:}: object declaration 对象声明
+```js
+let exampleObject = {
+  "property": "value",
+  "anotherProperty": 2,
+}
+```
+
+### .: object indexing 对象取值
+```js
+let exampleObject = {
+  "property": "value",
+  "anotherProperty": 2,
+}
+exampleObject.property  // "value"
+```
