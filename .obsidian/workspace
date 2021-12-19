@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "1a8da0b4b2ff6a8d",
+    "id": "95051b3fb2b788bd",
     "type": "split",
     "children": [
       {
-        "id": "4d0ac1f2a55f789c",
+        "id": "7901027ca61c4317",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "JSCourse/Lesson 4/String helpers.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JSCourse/Lesson 4/String helpers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,17 +85,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4d0ac1f2a55f789c",
+  "active": "7901027ca61c4317",
   "lastOpenFiles": [
-    "JSCourse/Lesson 8/Useful.md",
+    "JSCourse/Lesson 4/String helpers.md",
+    "JSCourse/Lesson 5/Easy String Number Conversion.md",
     "JSCourse/Lesson 8/Codewars Log.md",
+    "JSCourse/Lesson 8/Useful.md",
     "JSCourse/Lesson 7/Syntax clearup 语法整理.md",
     "JSCourse/Lesson 3/More js basics.md",
     "JSCourse/Lesson 5/Codewars Log.md",
     "JSCourse/Lesson 4/Codewars log.md",
-    "JSCourse/Lesson 4/String helpers.md",
     "JSCourse/Lesson 4/Array helpers.md",
-    "JSCourse/Lesson 6/range, map with index.md",
-    "JSCourse/Lesson 7/Types clean up 类型整理.md"
+    "JSCourse/Lesson 6/range, map with index.md"
   ]
 }

@@ -7,6 +7,16 @@
 - https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1/train/javascript
 - [[String helpers]]
 - [[Syntax clearup 语法整理]]
+```js
+4 % 2 = 0
+```
+
+```js
+let y = x => x + 1
+y(34) // 35
+let y = x => 4
+y(34)
+```
 
 ### Removing Elements
 - https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/train/javascript
@@ -14,6 +24,9 @@
 ### String repeat
 - https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/
 - [[range, map with index]]
+```js
+"s".repeat(4) // "ssss"
+```
 ### Convert a string to an array
 - https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/train/javascript
 - [[Array helpers]]

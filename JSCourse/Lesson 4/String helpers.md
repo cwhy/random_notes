@@ -22,7 +22,10 @@ let text1 = "hello"
 let text2 = "world"
 text1 + text2 // "helloworld"
 ```
-
+- `repeat`
+```js
+"d".repeat(4) // "dddd"
+```
 - `split`
 ```js
 let text = "hello world"
