@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JSCourse/Lesson 9/While loop.md",
+            "file": "JSCourse/Project 1/1. An environment on the browser.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSCourse/Lesson 9/While loop.md",
+                "file": "JSCourse/Project 1/1. An environment on the browser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,19 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301
   },
   "active": "7901027ca61c4317",
   "lastOpenFiles": [
-    "JSCourse/Lesson 9/While loop.md",
-    "JSCourse/Lesson 9/Array + Mutation.md",
-    "JSCourse/Lesson 9/Array and objects.md",
-    "JSCourse/Lesson 5/Boolean.md",
-    "JSCourse/Lesson 9/Codewar Log.md",
-    "JSCourse/Lesson 7/Types clean up 类型整理.md",
-    "JSCourse/Lesson 7/Syntax clearup 语法整理.md",
-    "JSCourse/Lesson 5/ifelse.md",
-    "JSCourse/Lesson 5/Codewars Log.md",
-    "JSCourse/Lesson 5/Easy String Number Conversion.md"
+    "JSCourse/Project 1/1. An environment on the browser.md",
+    "readme.md",
+    "JSCourse/Lesson 10/Codewars Log.md",
+    "JSCourse/Lesson 10/Const, shorthands.md",
+    "JSCourse/Lesson 10/Recursion 递归.md",
+    "JSCourse/Lesson 2/JS Recap.md",
+    "JSCourse/Lesson 2/Map filter boolean reduce.md",
+    "JSCourse/Lesson 3/More js basics.md",
+    "JSCourse/Lesson 4/String helpers.md",
+    "JSCourse/Lesson 4/Codewars log.md"
   ]
 }
