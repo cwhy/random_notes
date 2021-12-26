@@ -1,5 +1,5 @@
 ```js
-let range = n => [...Array(n).keys()]
+const range = n => [...Array(n).keys()]
 ```
 
 - `map` with index
