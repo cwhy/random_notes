@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JSCourse/Project 1/1. An environment on the browser.md",
+            "file": "JSCourse/Lesson 11/Input Output.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSCourse/Project 1/1. An environment on the browser.md",
+                "file": "JSCourse/Lesson 11/Input Output.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,8 @@
   },
   "active": "7901027ca61c4317",
   "lastOpenFiles": [
+    "JSCourse/Lesson 11/Input Output.md",
+    "JSCourse/Lesson 10/Codewars Log.md",
     "JSCourse/Project 1/1. An environment on the browser.md",
     "JSCourse/Lesson 9/While loop.md",
     "JSCourse/Lesson 10/Array.push.md",
@@ -94,8 +96,6 @@
     "JSCourse/Lesson 4/Array helpers.md",
     "JSCourse/Lesson 1/HTMLRecapInfo.md",
     "JSCourse/Lesson 1/HTMLRecapTask.md",
-    "JSCourse/Lesson 1/HTMLStructure.png",
-    "JSCourse/Lesson 10/Codewars Log.md",
-    "JSCourse/Lesson 10/Recursion 递归.md"
+    "JSCourse/Lesson 1/HTMLStructure.png"
   ]
 }
