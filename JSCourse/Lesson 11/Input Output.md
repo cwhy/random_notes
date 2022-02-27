@@ -2,7 +2,7 @@ File Download
 ```javascript
 const content = "Hello world"
 window.open(
-	encodeURI("data:text/txt;charset=utf-8," + content)
+	encodeURI("data:text/csv;charset=utf-8," + content)
 )
 ```
 
@@ -16,4 +16,15 @@ document.addEventListener('keydown', event => {
         alert('Right was pressed');
     }
 })
+```
+
+HTTP event
+```javascript
+fetch(url).then(
+	response => response.json()
+).then(data => 
+  console.log(data)
+).catch(() =>
+  console.log("Booo")
+)
 ```
