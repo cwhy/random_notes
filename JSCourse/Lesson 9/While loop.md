@@ -43,7 +43,7 @@ let i = 0
 let sum = 0
 while (i < 100) {
 	i = i + 1
-	sum = sum + 1
+	sum = sum + i
 }
 sum // 5050
 ```
