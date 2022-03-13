@@ -29,6 +29,12 @@ numArray.reduce(function(a, b){return a + b}, 0) // 12
 let strArray = ["a", "b", "c"]
 strArray.join("-") // "a-b-c"
 ```
+- `concat`
+```js
+arr = [3, 4, 5]
+arr2 = [3, 4, 5]
+arr.concat(arr2) // [3, 4, 5, 3, 4, 5]
+```
 
 Will change the array:
 - `sort`
