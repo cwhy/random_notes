@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "slice",
+                "query": "while loop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,8 +91,7 @@
     "JSCourse/Lesson 11/misc.md",
     "JSCourse/Lesson 11/HTML image tag.md",
     "JSCourse/Lesson 11/Input Output.md",
-    "JSCourse/Project 2/Untitled.md",
-    "JSCourse/Lesson 10/Codewars Log.md",
+    "JSCourse/Project 1/2. More features, about functions.md",
     "JSCourse/Project 1/1. An environment on the browser.md",
     "JSCourse/Lesson 9/While loop.md",
     "JSCourse/Lesson 10/Array.push.md",
