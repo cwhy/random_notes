@@ -9,22 +9,27 @@ window.open(
 Keyboard event
 ```javascript
 document.addEventListener('keydown', event => {
-    if(event.keyCode == 37) {
+    if(event.code == "ArrowLeft") {
         alert('Left was pressed');
     }
-    else if(event.keyCode == 39) {
+    else if(event.code == "ArrowRight") {
         alert('Right was pressed');
     }
 })
 ```
 
-HTTP event
+HTTP get request
 ```javascript
 fetch(url).then(
 	response => response.json()
 ).then(data => 
   console.log(data)
 ).catch(() =>
-  console.log("Booo")
+  console.log("No data received")
 )
+```
+
+Modify CSS
+```js
+document.querySelector('#app').style.color = "black"
 ```
