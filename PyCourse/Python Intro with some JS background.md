@@ -1,3 +1,4 @@
+# Python Intro with some JS background
 - Variables, print statement, strings
 ```python
 print("hello, world")
