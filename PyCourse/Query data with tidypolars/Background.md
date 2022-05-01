@@ -2,6 +2,7 @@
 
 ## Table based programming
 - SQL
+	- database language
 - Python - Pandas
 	- Language: Python
 	- [[Framework]]: Pandas
