@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JSCourse/Lesson 9/While loop.md",
-            "mode": "source",
+            "file": "JSCourse/Lesson 11/DOM manuplation.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSCourse/Lesson 9/While loop.md",
+                "file": "JSCourse/Lesson 11/DOM manuplation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "7901027ca61c4317",
   "lastOpenFiles": [
+    "JSCourse/Lesson 11/DOM manuplation.md",
+    "JSCourse/Lesson 11/Input Output.md",
     "JSCourse/Lesson 9/While loop.md",
     "JSCourse/Lesson 5/Codewars Log.md",
-    "JSCourse/Lesson 11/Input Output.md",
     "JSCourse/Project 1/2. More features, about functions.md",
     "JSCourse/Project 1/1. An environment on the browser.md",
     "JSCourse/Lesson 9/Array and objects.md",
     "JSCourse/Lesson 4/Array helpers.md",
     "JSCourse/Lesson 4/String helpers.md",
-    "JSCourse/Lesson 7/Syntax clearup 语法整理.md",
-    "JSCourse/Lesson 2/Map filter boolean reduce.md"
+    "JSCourse/Lesson 7/Syntax clearup 语法整理.md"
   ]
 }
