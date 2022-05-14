@@ -1,14 +1,23 @@
 {
   "main": {
-    "id": "1a8da0b4b2ff6a8d",
+    "id": "95051b3fb2b788bd",
     "type": "split",
     "children": [
       {
-        "id": "4d0ac1f2a55f789c",
+        "id": "7901027ca61c4317",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+<<<<<<< HEAD
+            "file": "JSCourse/Lesson 11/misc.md",
+            "mode": "source"
+=======
+            "file": "JSCourse/Lesson 9/While loop.md",
+            "mode": "source",
+            "source": false
+>>>>>>> ee63dbb8925780effce9c54b3dcfea488803359c
+          }
         }
       }
     ],
@@ -36,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "while loop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +54,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -65,6 +75,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+                "file": "JSCourse/Lesson 11/misc.md",
+=======
+                "file": "JSCourse/Lesson 9/While loop.md",
+>>>>>>> ee63dbb8925780effce9c54b3dcfea488803359c
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,18 +94,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 301
   },
-  "active": "4d0ac1f2a55f789c",
+  "active": "7901027ca61c4317",
   "lastOpenFiles": [
-    "JSCourse/HTMLStructure.png",
-    "JSCourse/HTMLRecapTask.md",
-    "JSCourse/JS Intro.md",
-    "JSCourse/HTMLRecapInfo.md",
-    "Untitled.md",
-    "JSCourse/HTMLrecap.md",
-    "JSCourse/HTMLInfo.md",
-    "JSCourse/Untitled.md"
+<<<<<<< HEAD
+    "JSCourse/Lesson 11/misc.md",
+    "JSCourse/Lesson 11/HTML image tag.md",
+=======
+    "JSCourse/Lesson 9/While loop.md",
+    "JSCourse/Lesson 5/Codewars Log.md",
+>>>>>>> ee63dbb8925780effce9c54b3dcfea488803359c
+    "JSCourse/Lesson 11/Input Output.md",
+    "JSCourse/Project 1/2. More features, about functions.md",
+    "JSCourse/Project 1/1. An environment on the browser.md",
+<<<<<<< HEAD
+    "JSCourse/Lesson 9/While loop.md",
+    "JSCourse/Lesson 10/Array.push.md",
+    "JSCourse/Lesson 4/String helpers.md",
+    "JSCourse/Lesson 4/Array helpers.md"
+=======
+    "JSCourse/Lesson 9/Array and objects.md",
+    "JSCourse/Lesson 4/Array helpers.md",
+    "JSCourse/Lesson 4/String helpers.md",
+    "JSCourse/Lesson 7/Syntax clearup 语法整理.md",
+    "JSCourse/Lesson 2/Map filter boolean reduce.md"
+>>>>>>> ee63dbb8925780effce9c54b3dcfea488803359c
   ]
 }

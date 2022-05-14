@@ -39,7 +39,7 @@ arr.filter((x)=>x.length === 3) // ["123", "234", "111"]
 - `toUpperCase`/`toLowerCase`
 ```js
 let text1 = "Hello World!"
-text1.toUpperCase() // "HELLO WORLD"
+text1.toUpperCase() // "HELLO WORLD!"
 ```
 
 - `replace`
