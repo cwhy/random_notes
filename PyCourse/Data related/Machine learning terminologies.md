@@ -17,5 +17,6 @@ $P(X)$
 	- Removal of feature
 - Feature Extraction
 	- New feature: continous
+	- "Project" the space to a new one
 
 ## Interpolation
