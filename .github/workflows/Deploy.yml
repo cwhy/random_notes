@@ -17,7 +17,7 @@ jobs:
           node-version: '14'
 
       - name: Migrate to Foam
-        run: yarm foam migrate $(dirname "$PWD")
+        run: yarn foam migrate $(dirname "$PWD")
         working-directory: _layouts
 
       - name: Get yarn cache directory path
