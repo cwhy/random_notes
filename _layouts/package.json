@@ -23,5 +23,11 @@
     "prismjs": "^1.24.1",
     "rehype-katex": "^5.0.0",
     "remark-math": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=16.13.1"
+  },
+  "devDependencies": {
+    "foam-cli": "^0.17.6"
   }
 }
