@@ -4,5 +4,6 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "useMarkdownLinks": true
 }
