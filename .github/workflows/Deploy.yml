@@ -16,13 +16,8 @@ jobs:
         with:
           node-version: '16'
 
-      - name: Install Foam
-        run: yarn add -D foam
-        working-directory: _layouts
         
-      - name: Migrate to Foam
-        run: yarn foam migrate $(dirname "$PWD")
-        working-directory: _layouts
+
 
       - name: Get yarn cache directory path
         id: yarn-cache-dir-path
@@ -38,6 +33,10 @@ jobs:
 
       - name: Install dependencies
         run: yarn
+        working-directory: _layouts
+
+      - name: Migrate to Foam
+        run: yarn foam migrate $(dirname "$PWD")
         working-directory: _layouts
 
       - name: Get repository name
