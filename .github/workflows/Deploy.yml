@@ -16,6 +16,10 @@ jobs:
         with:
           node-version: '14'
 
+      - name: Install Foam
+        run: yarn add -D foam
+        working-directory: _layouts
+        
       - name: Migrate to Foam
         run: yarn foam migrate $(dirname "$PWD")
         working-directory: _layouts
