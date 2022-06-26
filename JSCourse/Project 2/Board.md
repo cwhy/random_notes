@@ -1,0 +1,1 @@
+document.querySelector("p2").style.width= `${networth}px`
