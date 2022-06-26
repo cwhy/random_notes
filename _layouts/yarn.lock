@@ -5688,9 +5688,10 @@ flexsearch@^0.6.32:
   resolved "https://registry.yarnpkg.com/flexsearch/-/flexsearch-0.6.32.tgz#1e20684d317af65baa445cdd9864a5f5b320f510"
   integrity sha512-EF1BWkhwoeLtbIlDbY/vDSLBen/E5l/f1Vg7iX5CDymQCamcx1vhlc3tIZxIDplPjgi0jhG37c67idFbjg+v+Q==
 
-"foam-cli@https://github.com/foambubble/foam-cli":
+foam-cli@^0.17.6:
   version "0.17.6"
-  resolved "https://github.com/foambubble/foam-cli#53af12e344127dfceeffa8774e650920f9becb51"
+  resolved "https://registry.yarnpkg.com/foam-cli/-/foam-cli-0.17.6.tgz#9fa946fea48b6999bca4e8378543bf4f1b388385"
+  integrity sha512-Tr3DMKjX7zhOu7FcZtVSzR4LXXrUdiHG7IediGVAEyGoPD4Fc8FtoAxmdeOeLiMmzQgeyvv4Q9GwvWfTbw8VFA==
   dependencies:
     "@oclif/command" "^1.8.16"
     "@oclif/config" "^1.18.3"

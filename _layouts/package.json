@@ -28,6 +28,6 @@
     "node": ">=16.13.1"
   },
   "devDependencies": {
-    "foam-cli": "https://github.com/foambubble/foam-cli"
+    "foam-cli": "^0.17.6"
   }
 }
