@@ -3,7 +3,7 @@
 $P(Y|X)$
 - Classification
 $Y$ is discrete, $X$ is whatever
-![image1](Pasted%20image%2020220529113850.png)
+![image1](20220529113850.png)
 - Regression
 $Y$ is continuous, $X$ is whatever
 
