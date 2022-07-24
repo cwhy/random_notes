@@ -47,3 +47,17 @@ while (i < 100) {
 }
 sum // 5050
 ```
+
+## `break`
+
+```js
+let x = 0
+while (x < 5) {
+  console.log(x)
+  x = x + 1
+  if(x === 3) {
+	break
+  }
+}
+// Will log 0, 1, 2, 3 in separate lines in  console
+```

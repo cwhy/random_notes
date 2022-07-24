@@ -16,6 +16,12 @@
 			- KNN
 			- Decision Tree
 			- Deep learning
+	- ND Nearest Centroid
+		- Numpy operations
+		```python
+	np.apply_along_axis
+
+		```
 	- Dimension reduction
 		- Feature Extraction
 			- PCA
