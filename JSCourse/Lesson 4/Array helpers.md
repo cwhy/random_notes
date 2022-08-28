@@ -35,6 +35,12 @@ arr = [3, 4, 5]
 arr2 = [3, 4, 5]
 arr.concat(arr2) // [3, 4, 5, 3, 4, 5]
 ```
+- `include`
+```js
+let fruits = ["Banana", "Orange", "Apple", "Mango"]; 
+fruits.includes("Mango") // true
+fruits.includes("mango") // false
+```
 
 Will change the array:
 - `sort`
