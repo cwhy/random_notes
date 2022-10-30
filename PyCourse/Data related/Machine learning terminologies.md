@@ -21,6 +21,7 @@ $P(X)$
 
 ## Interpolation
 ## Training/Testing
+- Cross Validation
 
 
 
