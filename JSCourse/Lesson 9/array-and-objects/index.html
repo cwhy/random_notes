@@ -29,7 +29,18 @@ shirt<span class="token punctuation">.</span>price <span class="token comment">/
 <span class="token punctuation">}</span>
 
 setOfClothes<span class="token punctuation">.</span>shirt<span class="token punctuation">.</span>color <span class="token comment">// &quot;blue&quot;</span>
-setOfClothes<span class="token punctuation">.</span>pants<span class="token punctuation">.</span>color <span class="token comment">// &quot;red&quot;</span></code></pre></div></div></main><div class="topic-layout__right flex-shrink-0 p-5 hover:shadow-md"><div title="Show Graph Visualisation" aria-label="Show Graph Visualisation" class="graph-button"><span>
+setOfClothes<span class="token punctuation">.</span>pants<span class="token punctuation">.</span>color <span class="token comment">// &quot;red&quot;</span></code></pre></div><ul><li>Copy an object</li></ul><div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js">obj <span class="token operator">=</span> <span class="token punctuation">{</span>
+ <span class="token literal-property property">hi</span><span class="token operator">:</span> <span class="token string">&quot;hi&quot;</span><span class="token punctuation">,</span>
+ <span class="token literal-property property">hi2</span><span class="token operator">:</span> <span class="token number">2</span>
+<span class="token punctuation">}</span>
+new_obj <span class="token operator">=</span> <span class="token punctuation">{</span><span class="token operator">...</span>obj<span class="token punctuation">}</span>
+
+<span class="token comment">// Does not work on nested object</span>
+obj <span class="token operator">=</span> <span class="token punctuation">{</span>
+ <span class="token literal-property property">arr</span><span class="token operator">:</span> <span class="token punctuation">{</span><span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+new_obj <span class="token operator">=</span> <span class="token punctuation">{</span><span class="token operator">...</span>obj<span class="token punctuation">}</span>
+new_obj<span class="token punctuation">.</span>arr<span class="token punctuation">.</span>x <span class="token operator">=</span> <span class="token number">1</span></code></pre></div></div></main><div class="topic-layout__right flex-shrink-0 p-5 hover:shadow-md"><div title="Show Graph Visualisation" aria-label="Show Graph Visualisation" class="graph-button"><span>
 <svg
   t="1607341341241"
   class="icon"
