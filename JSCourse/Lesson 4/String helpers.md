@@ -65,3 +65,11 @@ str.trim() // "This is an sentence"
 let str = "Apple, Banana, Kiwi"
 str.slice(7, 13)    // Banana
 ```
+
+- `includes`/`startsWith`/`endsWith`
+```js
+let str = "Hello"
+str.includes("Hell")  // true
+str.startsWith("Hell") //false
+str.endsWith("Hell") // false
+```
